@@ -2,6 +2,8 @@
 #define CAPACITY 5
 using namespace std;
 class Store
+
+
 {
 private:
     int store[CAPACITY];
